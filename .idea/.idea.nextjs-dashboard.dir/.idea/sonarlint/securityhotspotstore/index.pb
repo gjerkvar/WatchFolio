@@ -27,3 +27,12 @@ H
 app/dashboard/layout.tsx,4/6/46f42bfacf9d8009d79b34138a7d9e2ebbab68a3
 N
 app/ui/dashboard/nav-links.tsx,7/b/7bf645632a631a917fc5ab977523443af5be30e8
+<
+.env.example,d/4/d4dae00d11854b35292c2b8a30515a9a0aa2d871
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+?
+scripts/seed.js,c/8/c8d02974cd7a0ed1a6791106a46e94ce13f4b221
+<
+package.json,7/0/7030d0b2f71b999ff89a343de08c414af32fc93a
